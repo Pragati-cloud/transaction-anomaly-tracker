@@ -1,0 +1,5 @@
+channel,total_transactions,anomalies,sla_breaches
+ATM,29695,150,17102
+Branch,20372,107,11827
+Mobile,89761,396,51688
+Web,60172,259,34889

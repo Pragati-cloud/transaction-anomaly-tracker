@@ -1,0 +1,13 @@
+FINANCIAL TRANSACTION ANOMALY & SLA REPORT
+
+Total Transactions: 200,000
+Anomalies Detected: 912
+SLA Breaches: 115,506
+Fraud Transactions: 1,016
+Error Rate: 7.03%
+Highest Breach Region: East
+
+Recommendations:
+- Investigate high breach regions.
+- Review slow processing channels.
+- Monitor high-value anomalous transactions.

@@ -1,0 +1,5 @@
+region,total_transactions,anomalies,sla_breaches,fraud_transactions
+East,50258,248,29093,270
+North,50113,219,28939,243
+South,49967,220,28869,255
+West,49662,225,28605,248

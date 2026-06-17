@@ -1,0 +1,7 @@
+merchant_category,total_transactions,failed_transactions,fraud_transactions
+Entertainment,33402,2279,172
+Food,33416,2356,157
+Healthcare,33178,2314,153
+Shopping,33584,2374,197
+Travel,33185,2341,169
+Utilities,33235,2397,168
