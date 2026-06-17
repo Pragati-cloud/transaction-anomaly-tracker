@@ -18,6 +18,7 @@ This project builds an end-to-end analytics pipeline that:
 * Visualizes operational KPIs in Power BI
 
 ---
+![Project Screenshot](Dashboard.png)
 
 ## 🛠 Tech Stack
 
